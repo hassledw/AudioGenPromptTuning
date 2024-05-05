@@ -38,6 +38,9 @@ Then, download the weights and move to `configs` folder:
 https://zenodo.org/records/8387083
 ```
 
+### Evaluation Form
+Form: https://forms.gle/snULDTSjezepFQsJ6
+
 
 
 
